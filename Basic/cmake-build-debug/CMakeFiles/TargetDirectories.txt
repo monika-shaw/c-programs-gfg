@@ -1,0 +1,4 @@
+D:/c-program-GFG/Basic/cmake-build-debug/CMakeFiles/main.dir
+D:/c-program-GFG/Basic/cmake-build-debug/CMakeFiles/macro.dir
+D:/c-program-GFG/Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c-program-GFG/Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

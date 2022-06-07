@@ -1,0 +1,5 @@
+# ninja log v5
+1	376	6762956005379678	CMakeFiles/main.dir/main.c.obj	3c3475f5c94fa169
+378	868	6762956010201739	main.exe	2514140babf84ad2
+1	284	6762956236075156	CMakeFiles/macro.dir/macro.c.obj	e0847bbfc2b42c0e
+286	769	6762956240607547	macro.exe	65411cba38ad53fb
