@@ -4,7 +4,12 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+/*
+Function pointers can be useful when you want to create callback mechanism, and need to pass address of an function to another function.
+They can also be useful when you want to store an array of functions, to call dynamically for example.
+ Pointers used in two ways :
 
+*/
 
 int sumOfNum(int a, int b)
 {
